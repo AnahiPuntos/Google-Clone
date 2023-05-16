@@ -1,13 +1,13 @@
 # Clonación de la Interfaz de Google
-##✨ Creado con HTML5 y CSS3 en el bootcamp ✨
+✨ Creado con HTML5 y CSS3 en el bootcamp ✨
 
 ## ÍNDICE
-* [Intro]()
-* [Que construí?]()
-* [Objetivo del Proyecto]()
-* [Link al Demo!]()
+* [Intro](https://github.com/AnahiPuntos/Google-Clone/blob/main/README.md#%C3%ADndice)
+* [Que construí?](https://github.com/AnahiPuntos/Google-Clone/blob/main/README.md#%EF%B8%8Fqu%C3%A9-constru%C3%AD)
+* [Objetivo del Proyecto](https://github.com/AnahiPuntos/Google-Clone/blob/main/README.md#objetivo-del-proyecto)
+* [Link al Demo!](https://github.com/AnahiPuntos/Google-Clone/blob/main/README.md#link-al-demo)
 
-***
+** Intro
 HTML 5 o HyperText MarUp Language, es el componente básico de la web y junto con CSS, se crean páginas web que usamos todos los días en el navegador. Definimos el signifcado, la estructura y el estilo del contenido web a tráves de estas tecnologías.
 En este proyecto, se utilizó HTML Y CSS para construir una clonación de la interfaz de Google.
 
