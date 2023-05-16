@@ -24,3 +24,4 @@ Aprender a utilizar las etiquetas de HTNL5 y las propiedades de CSS35; así como
 Aquí puedes visualizar mi proyecto terminado:
 https://anahipuntos.github.io/Google-Clone/
 
+<img width="960" alt="sc_google" src="https://github.com/AnahiPuntos/Google-Clone/assets/131729858/5cbdd90d-15e2-4758-80ed-af30c78cc5a0">
